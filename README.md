@@ -1,0 +1,4 @@
+hivemind
+========
+
+no triplet zone
